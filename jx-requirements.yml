@@ -9,4 +9,4 @@ spec:
   - key: production  
   ingress:
     tls: {}
-  secretStorage: azurekeyvault
+  secretStorage: aks-vault
